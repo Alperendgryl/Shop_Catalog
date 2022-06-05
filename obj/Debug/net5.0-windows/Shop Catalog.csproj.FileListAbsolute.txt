@@ -1,0 +1,36 @@
+C:\Users\Alperen Doğruyol\Desktop\Shop Catalog\Shop Catalog\bin\Debug\net5.0-windows\Shop Catalog.exe
+C:\Users\Alperen Doğruyol\Desktop\Shop Catalog\Shop Catalog\bin\Debug\net5.0-windows\Shop Catalog.deps.json
+C:\Users\Alperen Doğruyol\Desktop\Shop Catalog\Shop Catalog\bin\Debug\net5.0-windows\Shop Catalog.runtimeconfig.json
+C:\Users\Alperen Doğruyol\Desktop\Shop Catalog\Shop Catalog\bin\Debug\net5.0-windows\Shop Catalog.runtimeconfig.dev.json
+C:\Users\Alperen Doğruyol\Desktop\Shop Catalog\Shop Catalog\bin\Debug\net5.0-windows\Shop Catalog.dll
+C:\Users\Alperen Doğruyol\Desktop\Shop Catalog\Shop Catalog\bin\Debug\net5.0-windows\ref\Shop Catalog.dll
+C:\Users\Alperen Doğruyol\Desktop\Shop Catalog\Shop Catalog\bin\Debug\net5.0-windows\Shop Catalog.pdb
+C:\Users\Alperen Doğruyol\Desktop\Shop Catalog\Shop Catalog\obj\Debug\net5.0-windows\Shop Catalog.csprojAssemblyReference.cache
+C:\Users\Alperen Doğruyol\Desktop\Shop Catalog\Shop Catalog\obj\Debug\net5.0-windows\Shop Catalog.csproj.GenerateResource.cache
+C:\Users\Alperen Doğruyol\Desktop\Shop Catalog\Shop Catalog\obj\Debug\net5.0-windows\Shop Catalog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alperen Doğruyol\Desktop\Shop Catalog\Shop Catalog\obj\Debug\net5.0-windows\Shop Catalog.AssemblyInfoInputs.cache
+C:\Users\Alperen Doğruyol\Desktop\Shop Catalog\Shop Catalog\obj\Debug\net5.0-windows\Shop Catalog.AssemblyInfo.cs
+C:\Users\Alperen Doğruyol\Desktop\Shop Catalog\Shop Catalog\obj\Debug\net5.0-windows\Shop Catalog.csproj.CoreCompileInputs.cache
+C:\Users\Alperen Doğruyol\Desktop\Shop Catalog\Shop Catalog\obj\Debug\net5.0-windows\Shop Catalog.dll
+C:\Users\Alperen Doğruyol\Desktop\Shop Catalog\Shop Catalog\obj\Debug\net5.0-windows\ref\Shop Catalog.dll
+C:\Users\Alperen Doğruyol\Desktop\Shop Catalog\Shop Catalog\obj\Debug\net5.0-windows\Shop Catalog.pdb
+C:\Users\Alperen Doğruyol\Desktop\Shop Catalog\Shop Catalog\obj\Debug\net5.0-windows\Shop Catalog.genruntimeconfig.cache
+C:\Users\Alperen Doğruyol\Desktop\Shop Catalog\Shop Catalog\obj\Debug\net5.0-windows\Shop_Catalog.Shop.resources
+C:\Users\Alperen Doğruyol\Desktop\Shop Catalog\bin\Debug\net5.0-windows\Shop Catalog.exe
+C:\Users\Alperen Doğruyol\Desktop\Shop Catalog\bin\Debug\net5.0-windows\Shop Catalog.deps.json
+C:\Users\Alperen Doğruyol\Desktop\Shop Catalog\bin\Debug\net5.0-windows\Shop Catalog.runtimeconfig.json
+C:\Users\Alperen Doğruyol\Desktop\Shop Catalog\bin\Debug\net5.0-windows\Shop Catalog.runtimeconfig.dev.json
+C:\Users\Alperen Doğruyol\Desktop\Shop Catalog\bin\Debug\net5.0-windows\Shop Catalog.dll
+C:\Users\Alperen Doğruyol\Desktop\Shop Catalog\bin\Debug\net5.0-windows\ref\Shop Catalog.dll
+C:\Users\Alperen Doğruyol\Desktop\Shop Catalog\bin\Debug\net5.0-windows\Shop Catalog.pdb
+C:\Users\Alperen Doğruyol\Desktop\Shop Catalog\obj\Debug\net5.0-windows\Shop Catalog.csprojAssemblyReference.cache
+C:\Users\Alperen Doğruyol\Desktop\Shop Catalog\obj\Debug\net5.0-windows\Shop_Catalog.Shop.resources
+C:\Users\Alperen Doğruyol\Desktop\Shop Catalog\obj\Debug\net5.0-windows\Shop Catalog.csproj.GenerateResource.cache
+C:\Users\Alperen Doğruyol\Desktop\Shop Catalog\obj\Debug\net5.0-windows\Shop Catalog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alperen Doğruyol\Desktop\Shop Catalog\obj\Debug\net5.0-windows\Shop Catalog.AssemblyInfoInputs.cache
+C:\Users\Alperen Doğruyol\Desktop\Shop Catalog\obj\Debug\net5.0-windows\Shop Catalog.AssemblyInfo.cs
+C:\Users\Alperen Doğruyol\Desktop\Shop Catalog\obj\Debug\net5.0-windows\Shop Catalog.csproj.CoreCompileInputs.cache
+C:\Users\Alperen Doğruyol\Desktop\Shop Catalog\obj\Debug\net5.0-windows\Shop Catalog.dll
+C:\Users\Alperen Doğruyol\Desktop\Shop Catalog\obj\Debug\net5.0-windows\ref\Shop Catalog.dll
+C:\Users\Alperen Doğruyol\Desktop\Shop Catalog\obj\Debug\net5.0-windows\Shop Catalog.pdb
+C:\Users\Alperen Doğruyol\Desktop\Shop Catalog\obj\Debug\net5.0-windows\Shop Catalog.genruntimeconfig.cache

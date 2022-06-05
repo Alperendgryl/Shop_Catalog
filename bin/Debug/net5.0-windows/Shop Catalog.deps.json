@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Shop Catalog/1.0.0": {
+        "runtime": {
+          "Shop Catalog.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Shop Catalog/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
